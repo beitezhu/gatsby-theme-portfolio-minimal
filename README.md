@@ -6,17 +6,17 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ca0e691f-4d6f-4a70-8d91-e94a0843c7e2/deploy-status)](https://app.netlify.com/sites/gatsby-theme-portfolio-minimal/deploys) [![Latest Version](https://img.shields.io/npm/v/gatsby-theme-portfolio-minimal/latest.svg)](https://www.npmjs.com/package/gatsby-theme-portfolio-minimal)
 
-#### A modern one-page portfolio with a clean yet expressive design.
+#### It looks like a title here.
 
-Portfolio Minimal is a Gatsby Theme. You can install it as a dependency in your project and use its building blocks to create your own site - effortless and within minutes.
+Self introduction here
 
 Just install the theme, add the content. That's it!
 
-## Resources
+## Another title
 
 <a href="https://gatsby-theme-portfolio-minimal.netlify.app/">Live Demo</a> · <a href="https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme">How To Get Started</a> · <a href="#issues">Issues</a>
 
-## Features
+## Title 2
 
 #### 🕹️ Quick and Easy Setup - Add content and deploy.
 
